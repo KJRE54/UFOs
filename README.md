@@ -10,6 +10,7 @@ So once the reader gets to the webpage, _"UFO Sightings: Fact or Fiction"_, you 
 1. Place your cursor inside one or more boxes and type to enter either a Date, City, State, Country or Shape.
 2. Note: Text must be exactly entered as the example exhibited in light grey type inside the filter boxes. 
     (e.g. Enter a State: *FL* (2 letters), not Florida)
+
 ![Mod11_UFO_FilterSearchBoxes](https://user-images.githubusercontent.com/79073778/119280332-f3204e00-bbfe-11eb-967a-dd243c302941.png)
 
 3. Click the left-hand button on your mouse.  Only the data based on your criteria will show in the table.
